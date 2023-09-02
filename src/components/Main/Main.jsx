@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./main.css";
 
 const scrollingImagesLeft = [
-  "../IMG/1.webp",
+  "./IMG/1.webp",
   "../IMG/2.webp",
   "../IMG/3.webp",
   "../IMG/5.webp",
