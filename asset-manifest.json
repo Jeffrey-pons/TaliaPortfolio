@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TaliaZangerPortfolio/static/css/main.4df94f16.css",
+    "main.js": "/TaliaZangerPortfolio/static/js/main.240ae8a3.js",
+    "static/js/787.23de24d5.chunk.js": "/TaliaZangerPortfolio/static/js/787.23de24d5.chunk.js",
+    "static/media/IntegralCF-Regular.woff": "/TaliaZangerPortfolio/static/media/IntegralCF-Regular.aaf2dc2490e29fc3e28d.woff",
+    "index.html": "/TaliaZangerPortfolio/index.html",
+    "main.4df94f16.css.map": "/TaliaZangerPortfolio/static/css/main.4df94f16.css.map",
+    "main.240ae8a3.js.map": "/TaliaZangerPortfolio/static/js/main.240ae8a3.js.map",
+    "787.23de24d5.chunk.js.map": "/TaliaZangerPortfolio/static/js/787.23de24d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df94f16.css",
+    "static/js/main.240ae8a3.js"
+  ]
+}
