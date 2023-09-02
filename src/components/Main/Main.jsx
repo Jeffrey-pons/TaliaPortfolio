@@ -11,7 +11,7 @@ const scrollingImagesLeft = [
 const scrollingImagesRight = [
   "/IMG/6.webp",
   "/IMG/7.webp",
-  "IMG/8.webp",
+  "/IMG/8.webp",
   "IMG/9.webp",
   "/IMG/10.webp",
 ];
