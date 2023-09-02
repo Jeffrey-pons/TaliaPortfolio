@@ -2,18 +2,18 @@ import React, { useState, useEffect } from "react";
 import "./main.css";
 
 const scrollingImagesLeft = [
-  "./IMG/1.webp",
-  "../IMG/2.webp",
-  "../IMG/3.webp",
-  "../IMG/5.webp",
+  "/IMG/1.webp",
+  "/IMG/2.webp",
+  "/IMG/3.webp",
+  "/IMG/5.webp",
 ];
 
 const scrollingImagesRight = [
-  "../IMG/6.webp",
-  "../IMG/7.webp",
-  "../public/IMG/8.webp",
-  "./public/IMG/9.webp",
-  "./IMG/10.webp",
+  "/IMG/6.webp",
+  "/IMG/7.webp",
+  "IMG/8.webp",
+  "IMG/9.webp",
+  "/IMG/10.webp",
 ];
 
 const Main = () => {
